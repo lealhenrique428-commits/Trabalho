@@ -10,11 +10,11 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Analisar a inteligencia artifical  como meio de auxliar o processo de aprendizagem.]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
+1. `[identificar ]`
 2. `[preencher]`
 3. `[preencher]`
 4. `[opcional]`
