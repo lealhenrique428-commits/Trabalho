@@ -14,18 +14,18 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivos específicos
 
-1. `[identificar ]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[identificar as formas mais principais na Ia nos estudos infatil.]`
+2. `[analisar a inteligencia artifical na aprendizagem na educação infantil.]`
+3. `[indetificar os riscos de usp de IA na educação infatil.]`
+4. `[Crompreender como a inteligencia artificial pode ser usada de forma correta como ferramenta de apoio dos estudantes na educação infantil.]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Como o uso da inteligencia artificial pode ajudar a melhorar o aprendizado?]` |
+| Objetivo geral | `[Analisar a inteligencia artifical  como meio de auxliar o processo de aprendizagem]` |
+| Resultado esperado | `[O artigo que vai mostra como funciona a inteligencia artifical na educação. ?]` |
 
 ## Produto da etapa
 
