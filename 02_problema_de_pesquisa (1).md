@@ -6,11 +6,11 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[o uso da interligencia artifical na educação infantil]`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[Como o uso da inteligencia artificial pode ajudar a melhorar o aprendizado?]`
 
 ## Verificação
 
