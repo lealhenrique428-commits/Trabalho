@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Como o uso da inteligencia artificial pode ajudar a melhorar o aprendizado?]`
 
 ## Objetivo geral
 
