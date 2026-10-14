@@ -34,11 +34,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Principais resultados
 
-`[preencher]`
+`[o estudo mostrou a facilidade e ajudar e auxiliar na aprendizagem dos alunos usando a inteligencia artificial.]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`[]`
 
 ### Contribuição para o nosso artigo
 
