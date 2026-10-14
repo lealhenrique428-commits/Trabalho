@@ -8,51 +8,53 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+Referência completa: MACEDO, Patricia; TATIZANA, Celso. Desenvolvimento de um aplicativo para sondagem no ensino infantil utilizando recursos de inteligência artificial. RECIMA21 - Revista Científica, v. 7, n. 2, e727220, 2026.
 
-## Fichamento
+DOI ou URL: https://doi.org/10.47820/recima21.v7i2.7220
 
-### Problema investigado
+Base de origem: RECIMA21 - Revista Científica
 
-`[preencher]`
+Leitor responsável: Henrique leal
 
-### Objetivo do estudo
+Data da leitura: 14/10/2026
 
-`[preencher]`
+# Fichamento
 
-### Método utilizado
 
-`[preencher]`
+## Problema investigado
+Como superar as limitações dos processos manuais de avaliação diagnóstica na Educação Infantil — caracterizados por subjetividade interpretativa, dificuldade de padronização e sobrecarga da gestão pedagógica —, utilizando recursos de Inteligência Artificial para automatizar a sondagem de desenhos e da escrita inicial.
 
-### Contexto, amostra ou dados
+## Objetivo do estudo
 
-`[preencher]`
+Apresentar o desenvolvimento de uma ferramenta educacional baseada em Inteligência Artificial voltada à avaliação diagnóstica na Educação Infantil, descrevendo seus fundamentos teóricos, o processo de transposição de um método pedagógico manual para o ambiente digital e o potencial da ferramenta para aprimorar práticas pedagógicas preventivas.
 
-### Principais resultados
+## Método utilizado
 
-`[preencher]`
+Pesquisa aplicada de desenvolvimento tecnológico educacional, com abordagem qualitativa e descritiva, voltada à concepção, sistematização e testagem funcional inicial de uma ferramenta digital integrada a modelos de linguagem de grande escala (LLM) e visão computacional.
 
-### Limitações apresentadas
+## Contexto, amostra ou dados
 
-`[preencher]`
+O estudo baseia-se na transposição de um método pedagógico original aplicado manualmente ao longo de três anos em uma escola de Educação Infantil e Ensino Fundamental em Manaus, além da testagem funcional do aplicativo desenvolvido e publicado via GitHub e Vercel, avaliando conjuntos de desenhos e produções de escrita inicial infantis.
 
-### Contribuição para o nosso artigo
+## Principais resultados
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+Desenvolvimento tecnológico: Criação de um aplicativo web funcional capaz de automatizar a classificação de desenhos infantis (segundo as fases de Piaget) e de escritas iniciais (segundo as fases de Linnea Ehri).
 
-### Comentário crítico
+Testagem funcional: A análise inicial demonstrou concordância de aproximadamente 75% na identificação automática das fases do desenvolvimento gráfico em comparação com os critérios de referência.
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+Geração de relatórios: O sistema gerou relatórios individualizados, gráficos de distribuição por turma/escola e recomendações pedagógicas automatizadas, reduzindo a variabilidade interpretativa e otimizando o trabalho docente e da gestão.
 
-### Citação literal opcional
+## Limitações apresentadas
 
-> `[trecho exato]`
+O estudo restringe-se à testagem funcional inicial da ferramenta, não contemplando análises estatísticas ampliadas nem a mensuração direta do impacto pedagógico de longo prazo sobre a aprendizagem das crianças.
 
-Página: `[número]`
+## Contribuição para o nosso artigo
+
+Este estudo demonstra de forma prática como a Inteligência Artificial generativa e a visão computacional podem ser integradas a referenciais teóricos consolidados da Ciência da Leitura e da Psicopedagogia para solucionar problemas reais de escalabilidade, padronização e sobrecarga em avaliações diagnósticas na Educação Infantil.
+
+## Comentário crítico
+
+O artigo apresenta uma inovação tecnológica de grande relevância prática ao transpor conceitos teóricos complexos para um aplicativo web acessível. Como ponto forte, destaca-se a clareza na descrição da arquitetura e do fluxo de uso do sistema. Como fragilidade metodológica, aponta-se a ausência de validação empírica estatística robusta em larga escala, aspecto que os próprios autores reconhecem como desdobramento futuro necessário.
 
 ## Checklist
 
